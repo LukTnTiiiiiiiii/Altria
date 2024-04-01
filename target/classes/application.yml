@@ -1,0 +1,7 @@
+server:
+  port: 80
+
+elastic:
+  hostAndPort: http://localhost:9200
+  account:
+  password:
